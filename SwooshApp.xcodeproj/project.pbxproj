@@ -16,6 +16,7 @@
 		C1634A6D24B8AB0100A08057 /* BOrderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1634A6C24B8AB0100A08057 /* BOrderButton.swift */; };
 		C17B6CF824B9FD2400B185A4 /* LeagueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B6CF724B9FD2400B185A4 /* LeagueViewController.swift */; };
 		C17B6CFA24B9FD4300B185A4 /* SkillViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B6CF924B9FD4300B185A4 /* SkillViewController.swift */; };
+		C17B6CFC24BB9ED800B185A4 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17B6CFB24BB9ED800B185A4 /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		C1634A6C24B8AB0100A08057 /* BOrderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOrderButton.swift; sourceTree = "<group>"; };
 		C17B6CF724B9FD2400B185A4 /* LeagueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueViewController.swift; sourceTree = "<group>"; };
 		C17B6CF924B9FD4300B185A4 /* SkillViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillViewController.swift; sourceTree = "<group>"; };
+		C17B6CFB24BB9ED800B185A4 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		C1634A6F24B9D47B00A08057 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				C17B6CFB24BB9ED800B185A4 /* Player.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				C1634A5824B89E6400A08057 /* AppDelegate.swift in Sources */,
 				C1634A5A24B89E6400A08057 /* SceneDelegate.swift in Sources */,
 				C17B6CF824B9FD2400B185A4 /* LeagueViewController.swift in Sources */,
+				C17B6CFC24BB9ED800B185A4 /* Player.swift in Sources */,
 				C17B6CFA24B9FD4300B185A4 /* SkillViewController.swift in Sources */,
 				C1634A6D24B8AB0100A08057 /* BOrderButton.swift in Sources */,
 			);
